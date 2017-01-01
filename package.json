@@ -1,0 +1,26 @@
+{
+  "name": "dgw-difficulty-bridge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-Werner/dgw-difficulty-bridge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-Werner/dgw-difficulty-bridge/issues"
+  },
+  "homepage": "https://github.com/Alex-Werner/dgw-difficulty-bridge#readme",
+  "dependencies": {
+    "dark-gravity-wave-js": "alex-werner/dark-gravity-wave-js"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
